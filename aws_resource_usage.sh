@@ -31,6 +31,6 @@ aws s3 ls
 
 #delete ec2 instance
 echo "delete ec2 instance"
-aws ec2 terminate-instances --instance-id i-0598bdcfed5c204f1
+aws ec2 terminate-instances --instance-id i-0a1a1410cf0223482
 
 
